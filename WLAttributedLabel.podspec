@@ -3,7 +3,7 @@
 Pod::Spec.new do |s|
 
 s.name         = "WLAttributedLabel"
-s.version      = "1.0.0"
+s.version      = "1.0.1"
 s.summary      = "图文混编组件"
 s.description  = <<-DESC
 图文混编组件.
@@ -15,7 +15,7 @@ s.author             = { "StoneStoneStoneWang" => "yuanxingfu1314@163.com" }
 s.platform     = :ios, "9.0"
 s.ios.deployment_target = "9.0"
 
-s.swift_version = '4.2'
+s.swift_version = '5'
 
 s.frameworks = 'UIKit', 'Foundation'
 
